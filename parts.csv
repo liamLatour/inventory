@@ -1,0 +1,15 @@
+id,category,mpn,manufacturer,description,value,package,qty,location,lcsc,kicad_symbol,kicad_footprint,datasheet,notes
+MCU-0001,dev-board,UNO R3,Elegoo,Arduino UNO R3 compatible controller board,,,2,,,,,,
+DSP-0001,display,LCD1602,,16x2 character LCD module,,,2,,,,,,
+MOT-0001,motor-driver,ULN2003,,ULN2003 stepper motor driver board,,,2,,,,,,comes with a 28BYJ-48 stepper
+MOT-0002,motor,28BYJ-48,,Stepper motor,,,2,,,,,,used with the ULN2003 driver
+MOT-0003,servo,SG90,,Micro servo motor,,,2,,,,,,
+MOT-0004,motor,,,DC motor,3-6V,,2,,,,,,
+RLY-0001,relay,,,5V relay,5V,,2,,,,,,module or bare relay: to confirm
+SNS-0001,sensor,,,IR receiver module,,,2,,,,,,
+SNS-0002,input,,,Joystick module,,,2,,,,,,
+SNS-0003,sensor,DHT11,,Temperature and humidity sensor module,,,2,,,,,,
+SNS-0004,sensor,,,Ultrasonic distance sensor module,,,2,,,,,,
+AUD-0001,buzzer,,,Active buzzer,,,2,,,,,,
+AUD-0002,buzzer,,,Passive buzzer,,,2,,,,,,
+IC-0001,ic,74HC595,,8-bit shift register,,,2,,,,,,
